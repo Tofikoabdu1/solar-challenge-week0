@@ -5,7 +5,7 @@ This project analyzes solar energy data from **Benin**, **Sierra Leone**, and **
 ---
 
 ## 📁 Folder Structure
-
+```
 solar-challenge-week0/
 ├── data/                      # Raw and cleaned CSV files (excluded via .gitignore)
 │   ├── benin.csv
@@ -30,7 +30,7 @@ solar-challenge-week0/
 ├── requirements.txt           # Python dependencies
 ├── .gitignore                 # Files and folders to exclude from Git tracking
 └── README.md                  # Project overview and instructions
-
+```
 ---
 
 ## ✅ Tasks Overview
